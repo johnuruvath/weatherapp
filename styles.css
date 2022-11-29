@@ -1,0 +1,12 @@
+body{
+    background-image:url("./image/pexels-tahir-shaw-186980.jpg");
+    background-size: initial;
+    
+}
+p{
+    color: white;
+    font-family:'Poppins', sans-serif;
+}
+h1{
+    color: bisque;
+}
